@@ -1,3 +1,8 @@
 body {
     background: #869549;
+    padding-top: 40px;
+}
+
+.row div {
+    margin-top: 40px;
 }
